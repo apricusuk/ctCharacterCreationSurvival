@@ -11,7 +11,7 @@ It follows some simple logic:
 
 ## usage
 ```
-python3 survivial1.py <service> <runs> <debug>
+python3 survive1.py <service> <runs> <debug>
 ```
 - service is required argument; one of navy, marines, army, scounts, merchant, other or all - all indicates that number of runs are made for every service
 - runs is optional, with a default of 10 (which is not statistically significant)
@@ -19,8 +19,10 @@ python3 survivial1.py <service> <runs> <debug>
 
 ### example usage
 ```
-python3 survival1.py scouts 100000
-python3 survival1.py merchant 3 debug
+python3 survive1.py marines
+python3 survive1.py scouts 100000
+python3 survive1.py army debug
+python3 survive1.py all 1 debug
 ```
 
 ## enlistment

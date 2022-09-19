@@ -40,7 +40,7 @@ A set of results for 1 million runs against each career indicate the likelihood 
 | other | 97 % |
 
 ## survival
-Of those that successfully enlist, the following indicates the reason for leaving the service at each term (as a percentage (to two significant figures of those that enlist).
+Of those that successfully enlist, the following indicates the reason for leaving the service at each term (as a percentage (to two significant figures) of those that enlist).
 
 ### Navy
 | terms | failed survival | failed aging | failed reenlistment |

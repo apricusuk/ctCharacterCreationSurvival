@@ -1,4 +1,21 @@
 #!/usr/bin/env python3
+'''
+survive1.py
+
+Using random character stat generation.
+According to LBB1 (1981) Characters and Combat.
+Generates counts of reason for ending service career during character creation for each service at each term.  
+
+reference: https://www.farfuture.net/
+
+The Traveller game in all forms is owned by Far Future Enterprises. Copyright 1977 – 2020 Far Future Enterprises. 
+Traveller is a registered trademark of Far Future Enterprises. Far Future permits web sites and fanzines for this game, 
+provided it contains this notice, that Far Future is notified, and subject to a withdrawal of permission on 90 days notice. 
+The contents of this page are for personal, non-commercial use only. Any use of Far Future Enterprises’s copyrighted 
+material or trademarks anywhere on this web page and its file should not be viewed as a challenge to those copyrights 
+or trademarks. In addition, this program/file on this site cannot be republished or distributed without the consent 
+of the author who contributed it.
+'''
 
 from collections import Counter
 import numbers

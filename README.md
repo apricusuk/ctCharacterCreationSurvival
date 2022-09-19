@@ -16,10 +16,8 @@ It follows some simple logic:
 * debug is optional debug flag which must be 'debug' if wanted, it is quite verbose
 
 ### example usage
-`
-python3 survival1.py scouts 100000
-python3 survival1.py merchant 3 debug
-`
+`python3 survival1.py scouts 100000`
+`python3 survival1.py merchant 3 debug`
 
 ## enlistment
 A set of results for 1 million runs against each career indicate the likelihood for enlisting as

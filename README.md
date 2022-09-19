@@ -59,7 +59,6 @@ Of those that successfully enlist, the following indicates the reason for leavin
 | 8 | 0.011 | 0.011 | 0.22 |
 | 9 | 0.00036 | 0.00053 | 0.0064 |
 
-
-
+![Navy percent of those who start each term who fail to survive, fail aging or fail to reenlist](https://classic.apricus.page/survive_navy.png)
 
 > The Traveller game in all forms is owned by Far Future Enterprises. Copyright 1977 – 2022 Far Future Enterprises. Traveller is a registered trademark of Far Future Enterprises. Far Future permits web sites and fanzines for this game, provided it contains this notice, that Far Future is notified, and subject to a withdrawal of permission on 90 days notice. The contents of this page are for personal, non-commercial use only. Any use of Far Future Enterprises’s copyrighted material or trademarks anywhere on this web page and its file should not be viewed as a challenge to those copyrights or trademarks. In addition, this program/file on this site cannot be republished or distributed without the consent of the author who contributed it.

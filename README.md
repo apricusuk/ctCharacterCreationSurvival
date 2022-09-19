@@ -10,16 +10,16 @@ It follows some simple logic:
 3 if more than one skill is awarded in any term then one role (at least) is made on the personal development table
 
 ## usage
-'''python3 survivial1.py <service> <runs> <debug>'''
+`python3 survivial1.py <service> <runs> <debug>`
 * service is required argument; one of navy, marines, army, scounts, merchant, other or all - all indicates that number of runs are made for every service
 * runs is optional, with a default of 10 (which is not statistically significant)
 * debug is optional debug flag which must be 'debug' if wanted, it is quite verbose
 
 ### example usage
-'''
+`
 python3 survival1.py scouts 100000
 python3 survival1.py merchant 3 debug
-'''
+`
 
 ## enlistment
 A set of results for 1 million runs against each career indicate the likelihood for enlisting as

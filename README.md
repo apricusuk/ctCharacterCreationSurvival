@@ -31,34 +31,6 @@ python3 survive1.py all 1 debug
 Output for survival are given as comma separated variables of counts for those that fail enlistement, survival, aging and reenlistment at each term.
 Output for benefits is given as comma separated variables of counts for a number of benefits at each term.  
 
-## enlistment
-A set of results for 1 million runs against each career indicate the likelihood for enlisting as
-
-| service | likelihood of enlistment |
-| ------- | ------------------------ |
-| navy | 56 % |
-| marines | 46 % |
-| army | 98 % |
-| scouts | 77 % |
-| merchant | 82 % |
-| other | 97 % |
-
-## survival
-Of those that successfully enlist, the following indicates the reason for leaving the service at each term (as a percentage (to two significant figures) of those that enlist).
-
-### Navy
-| terms | failed survival | failed aging | failed reenlistment |
-| -- | -- | -- | -- |
-| 1 |	8.0 | 0.0 | 26 |
-| 2 | 4.7 | 0.0 | 17 |
-| 3 | 2.9 | 0.0 | 12 |
-| 4 | 1.8 | 0.0 | 7.9 |
-| 5 | 1.1  | 0.12 | 5.4 |
-| 6 | 0.69 | 0.21 | 3.7 |
-| 7 | 0.45 | 0.22 | 8.5 |
-| 8 | 0.011 | 0.011 | 0.22 |
-| 9 | 0.00036 | 0.00053 | 0.0064 |
-
-![Navy percent of those who start each term who fail to survive, fail aging or fail to reenlist](https://classic.apricus.page/survive_navy.png)
+Charts and notes are available at [https://classic.apricus.page/](https://classic.apricus.page/)
 
 > The Traveller game in all forms is owned by Far Future Enterprises. Copyright 1977 – 2022 Far Future Enterprises. Traveller is a registered trademark of Far Future Enterprises. Far Future permits web sites and fanzines for this game, provided it contains this notice, that Far Future is notified, and subject to a withdrawal of permission on 90 days notice. The contents of this page are for personal, non-commercial use only. Any use of Far Future Enterprises’s copyrighted material or trademarks anywhere on this web page and its file should not be viewed as a challenge to those copyrights or trademarks. In addition, this program/file on this site cannot be republished or distributed without the consent of the author who contributed it.
